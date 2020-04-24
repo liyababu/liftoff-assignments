@@ -8,4 +8,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 
 ### Project Repository
 Link to my Project Repo
-[a link](https://github.com/liyababu/LiftOffProject/tree/master/README.md)
+[a link](https://github.com/liyababu/LiftOff/tree/master/README.md)
